@@ -1,0 +1,101 @@
+DepartmentID,DepartmentName,ManagerID
+1,Retail banker,26209
+2,Chief Marketing Officer,36537
+3,Metallurgist,37374
+4,Ophthalmologist,68891
+5,"Optician, dispensing",99968
+6,"Therapist, drama",48159
+7,Production manager,5036
+8,Legal executive,8105
+9,Herpetologist,75194
+10,"Lecturer, higher education",46727
+11,Animal technologist,79654
+12,Oceanographer,74857
+13,Market researcher,4531
+14,Chief Financial Officer,97354
+15,"Engineer, civil (contracting)",10539
+16,"Teacher, English as a foreign language",35553
+17,Personnel officer,29724
+18,"Surveyor, hydrographic",63949
+19,"Conservation officer, historic buildings",98754
+20,"Programmer, applications",81484
+21,"Producer, television/film/video",17287
+22,"Production assistant, television",73496
+23,"Conservation officer, historic buildings",69813
+24,Financial risk analyst,98515
+25,Lobbyist,98906
+26,"Production assistant, radio",28728
+27,"Therapist, art",72456
+28,Technical author,49984
+29,Retail merchandiser,88981
+30,"Education officer, museum",83275
+31,Youth worker,32444
+32,Site engineer,20947
+33,"Surveyor, land/geomatics",67154
+34,Tax inspector,32327
+35,Textile designer,14390
+36,IT technical support officer,48567
+37,Media planner,12853
+38,Probation officer,17074
+39,"Engineer, chemical",30910
+40,Phytotherapist,59217
+41,Chief Technology Officer,79260
+42,Sports coach,25292
+43,Theatre manager,78674
+44,"Designer, exhibition/display",55504
+45,"Nurse, children's",21860
+46,Archivist,84346
+47,Photographer,17364
+48,"Surveyor, hydrographic",42315
+49,Historic buildings inspector/conservation officer,62988
+50,Insurance risk surveyor,86985
+51,Insurance risk surveyor,42836
+52,"Engineer, structural",98611
+53,Clinical cytogeneticist,53885
+54,Cytogeneticist,98593
+55,"Surveyor, building",50084
+56,Recycling officer,14473
+57,Waste management officer,59006
+58,Animator,24999
+59,Tour manager,48838
+60,Field seismologist,13222
+61,Fast food restaurant manager,13975
+62,"Designer, graphic",61766
+63,Medical secretary,59545
+64,Printmaker,83059
+65,Museum/gallery conservator,81315
+66,Tourism officer,76774
+67,Investment analyst,29265
+68,"Surveyor, minerals",48445
+69,"Education officer, environmental",17041
+70,Personal assistant,41239
+71,Production engineer,58288
+72,"Conservator, museum/gallery",39084
+73,"Surveyor, minerals",48968
+74,Claims inspector/assessor,86825
+75,"Programmer, systems",7580
+76,"Programme researcher, broadcasting/film/video",29735
+77,Trade mark attorney,36236
+78,Call centre manager,3177
+79,"Psychotherapist, dance movement",3183
+80,Set designer,30083
+81,Computer games developer,7221
+82,"Geologist, wellsite",4287
+83,Community education officer,182
+84,Company secretary,87510
+85,"Doctor, hospital",59121
+86,Bonds trader,74066
+87,"Education officer, environmental",91868
+88,Customer service manager,18927
+89,Network engineer,17190
+90,Planning and development surveyor,53434
+91,Advertising art director,45845
+92,Astronomer,37633
+93,Mudlogger,13430
+94,"Scientist, water quality",53678
+95,Optometrist,4490
+96,Corporate investment banker,50657
+97,Chartered management accountant,41299
+98,Health and safety inspector,3745
+99,"Psychologist, forensic",78269
+100,Landscape architect,96588
